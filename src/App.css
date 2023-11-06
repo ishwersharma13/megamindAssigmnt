@@ -1,0 +1,56 @@
+/* Overall */
+
+.section {
+  height: 100vh;
+  scroll-snap-align: start;
+  background-color: #212529;
+}
+hr{
+   margin-left: 400px;
+   margin-right: 400px;
+}
+/* Navbar Component */
+.logo {
+  width: 70px;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+/* HomePage Area*/
+.Section{
+  margin-top: 86px;
+  
+}
+.Sections{
+  margin-top: 86px;
+  background-color: #212529;
+  
+}
+/* Carousel Section */
+.carousel-home {
+  position: relative;
+  height: 50vh;
+}
+
+/* Blog Component Area */
+.card-group {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.blog {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+/* Footer Area */
+.footer-image {
+  width: 80px;
+  height: 40px;
+  margin-left: 40px;
+}
+
+
+
